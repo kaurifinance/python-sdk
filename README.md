@@ -15,6 +15,7 @@ We recommend using [PyPI](https://pypi.org/project/kauri_finance_sdk/) to instal
 ```bash
 $ pip install kauri_finance_sdk
 ```
+
 ## Usage
 After the [registration](https://kauri.finance/auth/registration), api_key and api_secret will become available.
 You can get them [here](https://kauri.finance/settings/api).
