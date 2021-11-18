@@ -9,13 +9,11 @@ Kauri.Finance – EU licensed multifunctional investment and payment solution to
 This library requires Python version from 3.5 to 3.9.
 
 Please note that this library also uses requests and certifi. These libraries' supported Python versions can differ from the versions supported by kauri_finance_sdk
-
 ## Installation
 We recommend using [PyPI](https://pypi.org/project/kauri_finance_sdk/) to install the Kauri Finance Software Development Kit for Python.
 ```bash
 $ pip install kauri_finance_sdk
 ```
-
 ## Usage
 After the [registration](https://kauri.finance/auth/registration), api_key and api_secret will become available.
 You can get them [here](https://kauri.finance/settings/api).
